@@ -10,6 +10,7 @@
 // put the highest in its array
 // output the highest then output the lowest
 
+
 import java.util.Arrays;
 public class Maximum_Minimum {
 
@@ -45,3 +46,4 @@ public class Maximum_Minimum {
     }
     
 }
+
